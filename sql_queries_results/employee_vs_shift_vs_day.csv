@@ -1,0 +1,212 @@
+"Name","day_of_week","Shift","avg_tip","cnt_of_shifts"
+"employee C","Monday   ","lunch",129.08,1
+"employee Y","Friday   ","dinner",128.005,2
+"employee W","Monday   ","lunch",127.01666666666667,3
+"employee M","Saturday ","lunch",124.01,1
+"employee A","Saturday ","lunch",120.99,2
+"employee M","Friday   ","dinner",114.57,1
+"employee D","Sunday   ","lunch",114.46,1
+"employee M","Saturday ","dinner",112.78,1
+"employee F","Sunday   ","dinner",110.72,1
+"employee A","Sunday   ","lunch",110.1175,4
+"employee R","Saturday ","dinner",108.19,1
+"employee P","Wednesday","lunch",107.28,1
+"employee W","Thursday ","lunch",105.08,1
+"employee A","Monday   ","lunch",102.47071428571428,28
+"employee S","Sunday   ","lunch",101.18,1
+"employee J","Friday   ","lunch",99.79642857142858,14
+"employee P","Tuesday  ","lunch",96.9,1
+"employee C","Friday   ","dinner",96.84,3
+"employee P","Monday   ","lunch",96.48,3
+"employee L","Sunday   ","lunch",96.47,33
+"employee B","Saturday ","lunch",95.34620689655172,29
+"employee N","Saturday ","dinner",95.225,2
+"employee L","Saturday ","lunch",92.76515151515152,33
+"employee Q","Monday   ","lunch",92.08272727272727,11
+"employee K","Friday   ","dinner",89.94,3
+"employee J","Thursday ","lunch",89.47846153846154,13
+"employee A","Tuesday  ","lunch",89.41533333333334,30
+"employee A","Wednesday","lunch",89.25642857142857,14
+"employee L","Monday   ","dinner",88.6,2
+"employee I","Sunday   ","lunch",87.88,2
+"employee J","Saturday ","lunch",86.79,11
+"employee Z","Monday   ","dinner",86.735,2
+"employee Q","Saturday ","lunch",86.60615384615384,13
+"employee L","Friday   ","lunch",85.24272727272728,22
+"employee J","Monday   ","lunch",84.86625,8
+"employee E","Saturday ","dinner",83.94166666666666,6
+"employee Q","Sunday   ","dinner",83.535,2
+"employee Y","Wednesday","lunch",83.28,1
+"employee H","Saturday ","lunch",80.04625,8
+"employee Q","Friday   ","dinner",80.01857142857143,7
+"employee W","Tuesday  ","lunch",79.81,3
+"employee M","Sunday   ","lunch",79.42,1
+"employee P","Sunday   ","lunch",79.335,4
+"employee Q","Thursday ","lunch",78.915,4
+"employee B","Sunday   ","lunch",78.5241935483871,31
+"employee L","Thursday ","lunch",78.2925925925926,27
+"employee B","Monday   ","dinner",77.995,2
+"employee L","Wednesday","lunch",77.29,2
+"employee J","Tuesday  ","lunch",77.24933333333334,15
+"employee W","Friday   ","lunch",77.06,3
+"employee A","Monday   ","dinner",76.99225806451614,31
+"employee E","Sunday   ","lunch",76.87,2
+"employee P","Thursday ","lunch",76.66,1
+"employee T","Sunday   ","dinner",76.5,1
+"employee A","Thursday ","lunch",76.425,4
+"employee B","Friday   ","dinner",76.07307692307693,26
+"employee J","Sunday   ","lunch",74.91971428571429,35
+"employee C","Saturday ","lunch",74.912,5
+"employee T","Saturday ","dinner",74.615,2
+"employee W","Monday   ","dinner",74.48,1
+"employee K","Saturday ","lunch",74.37,5
+"employee H","Wednesday","lunch",74.34,5
+"employee Q","Monday   ","dinner",73.588,10
+"employee Y","Saturday ","lunch",73.21333333333334,3
+"employee J","Monday   ","dinner",73.01142857142857,21
+"employee W","Saturday ","lunch",73.0,3
+"employee M","Wednesday","dinner",72.61,1
+"employee N","Thursday ","dinner",72.31,1
+"employee Q","Wednesday","lunch",72.2009090909091,11
+"employee J","Friday   ","dinner",72.01862068965518,29
+"employee S","Friday   ","dinner",72.005,2
+"employee H","Wednesday","dinner",71.45,10
+"employee J","Wednesday","lunch",70.45055555555555,18
+"employee L","Friday   ","dinner",70.05533333333334,30
+"employee C","Sunday   ","lunch",70.05,1
+"employee F","Friday   ","dinner",70.01,1
+"employee H","Friday   ","dinner",69.802,10
+"employee B","Thursday ","dinner",69.41666666666667,15
+"employee H","Monday   ","dinner",68.2325,8
+"employee Q","Thursday ","dinner",67.92666666666666,3
+"employee A","Tuesday  ","dinner",67.65038461538461,26
+"employee F","Monday   ","lunch",67.63,2
+"employee B","Monday   ","lunch",67.625,2
+"employee Q","Friday   ","lunch",67.1125,8
+"employee P","Wednesday","dinner",67.075,8
+"employee Q","Tuesday  ","lunch",66.515,2
+"employee J","Wednesday","dinner",66.07538461538462,39
+"employee W","Wednesday","lunch",66.07,1
+"employee K","Saturday ","dinner",66.03,4
+"employee C","Thursday ","lunch",65.97,1
+"employee H","Tuesday  ","dinner",65.575,4
+"employee I","Friday   ","dinner",65.22928571428571,14
+"employee N","Friday   ","dinner",65.13666666666667,3
+"employee I","Monday   ","dinner",64.98421052631579,19
+"employee A","Thursday ","dinner",64.732,10
+"employee W","Sunday   ","lunch",64.56,3
+"employee P","Thursday ","dinner",64.4509090909091,11
+"employee S","Sunday   ","dinner",64.19666666666667,6
+"employee C","Monday   ","dinner",64.1875,4
+"employee A","Saturday ","dinner",63.975,2
+"employee F","Sunday   ","lunch",63.8,1
+"employee U","Saturday ","dinner",63.55,1
+"employee H","Saturday ","dinner",63.51090909090909,11
+"employee Q","Wednesday","dinner",63.0775,8
+"employee P","Tuesday  ","dinner",63.053333333333335,6
+"employee J","Tuesday  ","dinner",62.835,28
+"employee B","Friday   ","lunch",62.73125,8
+"employee P","Friday   ","dinner",62.54666666666667,3
+"employee R","Sunday   ","dinner",62.376,5
+"employee J","Saturday ","dinner",62.26,37
+"employee J","Thursday ","dinner",61.92357142857143,28
+"employee G","Saturday ","lunch",61.90625,16
+"employee K","Sunday   ","lunch",61.822,5
+"employee P","Saturday ","dinner",61.57142857142857,7
+"employee X","Friday   ","dinner",61.32,3
+"employee E","Wednesday","dinner",61.27,1
+"employee R","Wednesday","dinner",61.18,4
+"employee C","Sunday   ","dinner",61.016,5
+"employee T","Friday   ","dinner",60.876666666666665,3
+"employee R","Sunday   ","lunch",60.555,4
+"employee U","Sunday   ","lunch",59.94,1
+"employee B","Saturday ","dinner",59.31894736842105,19
+"employee C","Wednesday","dinner",59.3075,12
+"employee G","Sunday   ","dinner",59.303125,16
+"employee D","Sunday   ","dinner",59.04,1
+"employee Q","Sunday   ","lunch",58.93181818181818,11
+"employee A","Friday   ","lunch",58.843333333333334,3
+"employee Y","Tuesday  ","dinner",58.0625,4
+"employee H","Thursday ","dinner",58.001666666666665,6
+"employee R","Tuesday  ","dinner",57.71142857142857,7
+"employee X","Sunday   ","dinner",57.475,2
+"employee A","Sunday   ","dinner",57.35,1
+"employee X","Monday   ","dinner",57.0,2
+"employee T","Sunday   ","lunch",56.836666666666666,3
+"employee D","Monday   ","dinner",56.81,1
+"employee H","Sunday   ","lunch",56.736666666666665,3
+"employee M","Thursday ","dinner",56.25,1
+"employee C","Thursday ","dinner",56.144285714285715,7
+"employee G","Sunday   ","lunch",56.02125,8
+"employee A","Wednesday","dinner",55.621428571428574,7
+"employee L","Saturday ","dinner",55.355666666666664,30
+"employee I","Saturday ","dinner",55.25857142857143,7
+"employee K","Friday   ","lunch",55.18,3
+"employee I","Thursday ","dinner",54.75176470588235,17
+"employee H","Sunday   ","dinner",54.60142857142857,7
+"employee R","Monday   ","dinner",53.955,2
+"employee G","Tuesday  ","dinner",53.642,10
+"employee Y","Sunday   ","lunch",53.09,2
+"employee L","Sunday   ","dinner",52.9212,25
+"employee B","Sunday   ","dinner",52.894615384615385,26
+"employee Q","Saturday ","dinner",52.86666666666667,3
+"employee X","Saturday ","dinner",52.805,2
+"employee W","Tuesday  ","dinner",52.74,1
+"employee P","Saturday ","lunch",52.515,4
+"employee I","Sunday   ","dinner",52.47875,8
+"employee R","Thursday ","dinner",52.17,7
+"employee J","Sunday   ","dinner",52.032,20
+"employee P","Monday   ","dinner",51.892857142857146,7
+"employee N","Monday   ","dinner",51.70666666666666,3
+"employee H","Friday   ","lunch",50.7925,4
+"employee I","Tuesday  ","dinner",50.7505,20
+"employee G","Wednesday","dinner",49.848571428571425,7
+"employee G","Monday   ","dinner",49.535,12
+"employee L","Thursday ","dinner",49.2175,4
+"employee L","Wednesday","dinner",49.21,2
+"employee S","Saturday ","dinner",49.11,1
+"employee G","Friday   ","dinner",49.04,3
+"employee I","Wednesday","dinner",48.88894736842105,19
+"employee I","Monday   ","lunch",48.63,1
+"employee E","Saturday ","lunch",48.48,1
+"employee W","Saturday ","dinner",48.28,2
+"employee E","Monday   ","dinner",48.07333333333333,3
+"employee M","Friday   ","lunch",48.04,1
+"employee K","Monday   ","dinner",47.5575,4
+"employee X","Thursday ","dinner",47.166666666666664,3
+"employee Y","Friday   ","lunch",46.91,1
+"employee A","Friday   ","dinner",46.87,1
+"employee E","Friday   ","dinner",46.37,1
+"employee F","Saturday ","dinner",45.65,1
+"employee Q","Tuesday  ","dinner",45.15125,8
+"employee D","Thursday ","dinner",44.91,1
+"employee G","Thursday ","dinner",44.551818181818184,11
+"employee L","Tuesday  ","dinner",44.395,2
+"employee C","Saturday ","dinner",43.343333333333334,3
+"employee U","Saturday ","lunch",43.31,1
+"employee N","Wednesday","dinner",42.555,2
+"employee C","Tuesday  ","dinner",42.300769230769234,13
+"employee ZA","Friday   ","dinner",41.93,1
+"employee K","Thursday ","dinner",41.375,2
+"employee P","Friday   ","lunch",41.00333333333333,3
+"employee E","Sunday   ","dinner",40.82833333333333,6
+"employee S","Saturday ","lunch",40.82375,8
+"employee T","Thursday ","dinner",39.06,3
+"employee P","Sunday   ","dinner",39.04875,8
+"employee G","Saturday ","dinner",38.96333333333333,6
+"employee S","Monday   ","dinner",38.48,1
+"employee E","Thursday ","dinner",37.51,5
+"employee Y","Saturday ","dinner",37.16,1
+"employee Y","Thursday ","dinner",36.52,3
+"employee M","Sunday   ","dinner",32.7,2
+"employee Z","Wednesday","dinner",32.6,1
+"employee Y","Sunday   ","dinner",31.22,1
+"employee ZA","Thursday ","dinner",29.54,1
+"employee X","Tuesday  ","dinner",29.18,2
+"employee X","Wednesday","dinner",28.24,2
+"employee S","Wednesday","dinner",27.722857142857144,7
+"employee S","Thursday ","dinner",24.49,1
+"employee B","Thursday ","lunch",21.89,1
+"employee B","Wednesday","lunch",19.29,1
+"employee C","Wednesday","lunch",8.505,2
+"employee H","Thursday ","lunch",4.91,1

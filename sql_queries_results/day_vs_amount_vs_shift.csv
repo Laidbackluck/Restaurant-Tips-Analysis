@@ -1,0 +1,15 @@
+"day_num","day_of_week","Shift","avg_tip_per_day"
+1,"Monday   ","lunch",96.27
+2,"Tuesday  ","lunch",84.52
+6,"Saturday ","lunch",80.25
+4,"Thursday ","lunch",77.28
+0,"Sunday   ","lunch",74.26
+3,"Wednesday","lunch",72.48
+5,"Friday   ","lunch",70.74
+5,"Friday   ","dinner",68.73
+1,"Monday   ","dinner",65.03
+6,"Saturday ","dinner",57.59
+3,"Wednesday","dinner",54.76
+4,"Thursday ","dinner",53.55
+2,"Tuesday  ","dinner",52.89
+0,"Sunday   ","dinner",52.6
